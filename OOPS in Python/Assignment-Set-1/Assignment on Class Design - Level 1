@@ -1,0 +1,11 @@
+ClassName
+           Vehicle
+Attributes
+           vehicle_cost 
+           vehicle_type 
+           premium_amount 
+           vehicle_id
+Methods
+          calculate_premium()
+          init(self, vehicle_type, vehicle_id,vehicle_cost)
+          display_vehicle_details()
