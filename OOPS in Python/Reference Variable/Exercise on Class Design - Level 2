@@ -1,0 +1,9 @@
+className  
+         vechile
+Attributes
+         fuel left
+         mileage
+methods
+         __init__()
+         identified_distance_that_can_be_travelled()
+         identify_distance_travelled(initial_fuel)
