@@ -1,0 +1,9 @@
+1(d)  Error: abstract class cannot be instantiated
+2(b) 5
+    10
+3(b) Error: abstract class cannot be instantiated
+4(a) 5
+   10
+   This is possible
+5(d) Error: class B cannot be instantiated
+6(a) Aggregation
