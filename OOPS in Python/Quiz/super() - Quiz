@@ -1,0 +1,10 @@
+1(a)  100 200
+2(c)  100 200
+3(d)  4 classes with inheritance: Base class: Customer; Child classes: Regular, Privileged, Elite
+4(d)  Parent: 100
+    Child: 10
+    
+5(b)  super().show()
+6(a) Normal Customer 
+    Privileged Customer
+7(b)    
