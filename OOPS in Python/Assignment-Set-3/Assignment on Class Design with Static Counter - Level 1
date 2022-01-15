@@ -1,0 +1,11 @@
+ClassName
+          Parrot
+
+Attributes 
+          name
+          color
+          unique_number
+          counter->static
+
+Methods
+         __init__(name,color)
