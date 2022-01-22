@@ -1,0 +1,16 @@
+class Tester {
+	public static void main(String[] args) {
+		// Implement your code here 
+		int n=6;
+		int m=5;
+		int sum=0;
+		if(n==m){
+		    sum=2*(n);
+		}else{
+		    sum=2*(m+n);
+		}
+		System.out.println(sum);
+	}
+	
+}
+
