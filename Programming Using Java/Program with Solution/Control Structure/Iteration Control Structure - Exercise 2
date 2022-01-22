@@ -1,0 +1,11 @@
+class Tester {
+	public static void main(String[] args) {
+		// Implement your code here 
+		
+		int n=8;
+		
+		for(int i=0;i<n;i++){
+		    System.out.println(Math.pow(2,i));
+		}
+	}
+}
