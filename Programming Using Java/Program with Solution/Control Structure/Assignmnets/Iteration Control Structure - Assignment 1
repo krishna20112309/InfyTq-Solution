@@ -1,0 +1,22 @@
+class Tester {
+	public static void main(String[] args) {
+		// Implement your code here 
+		int n=46763;
+         int temp=n;
+         int reverseNumber=0;
+         
+         while (temp >0) {
+        	 int lastDigit=temp%10;
+        	 reverseNumber=reverseNumber*10+lastDigit;
+        	 temp/=10;
+        	 
+         }
+         if(reverseNumber ==n) {
+        	 System.out.println(n + " is palindrome");
+         }else {
+        	 System.out.println(n+ " is not palindrome");
+         }
+		
+	}
+}
+
